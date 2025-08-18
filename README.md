@@ -59,13 +59,13 @@ Save all tables/plots to outputs/
 Tickers (15):
 AAPL, MSFT, JPM, HON, NOC, JNJ, PG, SPY, IWM, QQQ, ACWI, TLT, GLD, VNQ, UUP
 
-<img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/8ba7373b-b0c3-4923-becf-b079ad96ed71" />
+<img width="468" height="257" alt="image" src="https://github.com/user-attachments/assets/9618f80d-a8bf-4383-99d1-9477b6e029c9" />
 
 Dynamic universe: assets join when they actually exist (no look-ahead).
 
 Frequency: monthly (using month-end closes).
 
-<img width="468" height="305" alt="image" src="https://github.com/user-attachments/assets/6e3acb17-ebe3-4e42-a6a1-c2c2aee5b773" />
+<img width="468" height="305" alt="image" src="https://github.com/user-attachments/assets/09d8e5ae-c46d-4526-9eea-a5981f059f57" />
 
 <img width="468" height="185" alt="image" src="https://github.com/user-attachments/assets/3acae938-7a2a-456b-a500-04750fc93569" />
 
@@ -101,7 +101,7 @@ BENCH: SPY (S&P 500 ETF)
 
 EW_LIVE: Equal weight across all currently live assets each rebalance
 
-<img width="468" height="162" alt="image" src="https://github.com/user-attachments/assets/33578fcb-f320-4afe-8ac3-72aa34d67522" />
+<img width="468" height="162" alt="image" src="https://github.com/user-attachments/assets/1ecf46cd-1812-4d73-b344-639e27bd8beb" />
 
 # 5) Backtesting & Fees
 
