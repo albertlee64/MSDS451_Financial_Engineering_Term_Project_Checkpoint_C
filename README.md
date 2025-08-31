@@ -184,7 +184,7 @@ See the “Backtesting: Best Strategy vs S&P 500 (Net)” table and the example 
 
 # AI Usage
 
-Parts of this repository (research framing, code scaffolding, doc text, and refactoring) were assisted by an AI coding assistant. All outputs were reviewed and edited by human maintainers.  
+Parts of this repository (research framing, code scaffolding, doc text, and refactoring) were assisted by an AI coding assistant.
 
 # MIT License
 
